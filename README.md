@@ -1,4 +1,4 @@
-# Project-3
+# AI-Based Smart Keyboard for Real-Time Text Generation & Assistance
 # 1. Abstract
 This project focuses on developing an AI-powered smart keyboard that helps users write messages easily and quickly. The keyboard includes a special AI button that allows users to enter a prompt, such as the type of message they want (formal, casual, etc.). The AI then generates a suitable and well-structured response instantly. This keyboard can be used in any app like messaging or email, making communication faster and more effective. The main goal of this project is to reduce users’ effort in typing and help them create better messages using artificial intelligence.
 # 2. Introduction
