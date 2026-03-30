@@ -32,21 +32,21 @@ Git & GitHub
 
 Android Studio
 # 6. Limitations
-1. Occasional misinterpretation of complex prompts.
-2. Needs a larger, more diverse training dataset.
-3. Variable performance across different languages.
-4. Minor delays in real-time processing for longer prompts.
+* Occasional misinterpretation of complex prompts.
+* Needs a larger, more diverse training dataset.
+* Variable performance across different languages.
+* Minor delays in real-time processing for longer prompts.
 # 7. Future Scope
-1. Support for more languages and dialects.
-2. Enhanced AI training with domain-specific data.
-3. Integration with voice input for hands-free use.
-4. Customizable AI styles for different user needs.
-5. Offline functionality for faster access.
+* Support for more languages and dialects.
+* Enhanced AI training with domain-specific data.
+* Integration with voice input for hands-free use.
+* Customizable AI styles for different user needs.
+* Offline functionality for faster access.
 # 8. Conclusion
 The AI-powered smart keyboard successfully assists users by generating context-aware text in real time. While it performs well across various scenarios, future improvements in language support and dataset diversity will further enhance its accuracy and usability.
 # 9. References
-Zhang, L. et al. (2025). "AI-Assisted Typing on Smart Devices.
+* Zhang, L. et al. (2025). "AI-Assisted Typing on Smart Devices.
 
-Neha, S. et al. (2024). "A Comprehensive Review of AI Text Generation Models.
+* Neha, S. et al. (2024). "A Comprehensive Review of AI Text Generation Models.
 
-Devlin, J. et al. (2019). "BERT: Pre-Training of Deep
+* Devlin, J. et al. (2019). "BERT: Pre-Training of Deep
