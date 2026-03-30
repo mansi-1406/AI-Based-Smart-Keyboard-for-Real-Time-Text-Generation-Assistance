@@ -10,27 +10,7 @@ However, most existing systems either work as separate applications or provide l
 # 4. Methodology
 In this project, we follow a structured approach. First, we design a custom mobile keyboard interface using Android Studio and Kotlin. Next, we integrate a Natural Language Processing (NLP) model by connecting to an AI service, such as OpenAI’s API. After that, we develop a user prompt system, where users input a request, and the AI generates a suitable response. We test the keyboard on different devices, ensuring it works smoothly across apps. Finally, we evaluate the system based on user feedback and performance, and make improvements accordingly.
 # 5. Implementation
-## Programming Languages:
 
-Kotlin (for Android development)
-
-Python (for AI model training and backend)
-## Frameworks / Libraries:
-| Library             | Purpose                           |
-| ------------------- | --------------------------------- |
-| TensorFlow          | AI model training and deployment  |
-| OpenCV              | Image and input processing        |
-| NLTK / spaCy        | Natural language processing       |
-| Transformers (BERT) | Semantic text analysis            |
-| Android SDK         | Mobile keyboard UI development    |
-| Retrofit            | API calls between app and backend |
-| Pandas              | Data manipulation and analysis    |
-## Tools Used:
-VS Code / Jupyter Notebook
-
-Git & GitHub
-
-Android Studio
 # 6. Limitations
 * Occasional misinterpretation of complex prompts.
 * Needs a larger, more diverse training dataset.
@@ -44,9 +24,4 @@ Android Studio
 * Offline functionality for faster access.
 # 8. Conclusion
 The AI-powered smart keyboard successfully assists users by generating context-aware text in real time. While it performs well across various scenarios, future improvements in language support and dataset diversity will further enhance its accuracy and usability.
-# 9. References
-* Zhang, L. et al. (2025). "AI-Assisted Typing on Smart Devices.
 
-* Neha, S. et al. (2024). "A Comprehensive Review of AI Text Generation Models.
-
-* Devlin, J. et al. (2019). "BERT: Pre-Training of Deep
